@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "687818735428",
+    "project_id": "ladm-u3-ejercicio3-fireb-d28b2",
+    "storage_bucket": "ladm-u3-ejercicio3-fireb-d28b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687818735428:android:7cb0612f5a0ea25cc3a111",
+        "android_client_info": {
+          "package_name": "tecnm.mx.tepic.ladm_u3_ejercicio3_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687818735428-84uqa86hp8hqko87n7hhsqg6lr3sf1u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALZHZG0QuyMlvfMUWlJABN0a-GRZ_gFyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687818735428-84uqa86hp8hqko87n7hhsqg6lr3sf1u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687818735428:android:e0f48cf345d0fed4c3a111",
+        "android_client_info": {
+          "package_name": "tecnm.mx.tepic.ladm_u3_practica1_muebleria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687818735428-84uqa86hp8hqko87n7hhsqg6lr3sf1u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALZHZG0QuyMlvfMUWlJABN0a-GRZ_gFyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687818735428-84uqa86hp8hqko87n7hhsqg6lr3sf1u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
